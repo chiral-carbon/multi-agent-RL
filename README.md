@@ -1,0 +1,3 @@
+## Description
+
+This project aims to understand multi-agent navigation for the vehicle rescheduling problem proposed in the [Flatland challenge](https://www.aicrowd.com/challenges/flatland-challenge) and uses a reinforcement learning approach using duelling double deep Q networks to learn the environment using tree-based observations of the environment, achieving a completion rate of 0.78 for 3-agent and 5-agent networks, where the agent are trains and the environment is a map of the train navigation paths. Code inspired from this [implementation](https://github.com/Wadaboa/flatland-challenge).
